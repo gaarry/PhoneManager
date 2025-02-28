@@ -1,7 +1,7 @@
 # 📱 PhoneManager
 
 <p align="center">
-  <img src="screenshots/app_icon.png" width="120" height="120"/>
+  <img src="https://github.com/user-attachments/assets/590e03e6-7326-4fcf-a8be-852659b864b4" width="120" height="120"/>
 </p>
 
 <p align="center">
@@ -36,10 +36,10 @@ PhoneManager 是一款功能强大的 iOS 设备信息管理工具，提供实�
 ## 📸 截图
 
 <p align="center">
-  <img src="screenshots/network.png" width="200"/>
-  <img src="screenshots/device.png" width="200"/>
-  <img src="screenshots/compass.png" width="200"/>
-  <img src="screenshots/sensors.png" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0bab3181-d06b-429d-9b89-7a12f116761d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0e6d15d2-890b-4da6-9e47-eb0cbdc4a5a3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ae5f1818-5322-4d71-9634-927cb54e2019" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4d956f9c-8be6-41cb-b069-83278b62fd7a" width="200"/>
 </p>
 
 ## 🛠 技术特点
